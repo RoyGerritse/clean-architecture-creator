@@ -6,9 +6,9 @@
     <ToolCommandName>cac</ToolCommandName>
     <PackageOutputPath>./nupkg</PackageOutputPath>
     <PackageId>cac</PackageId>
-    <AssemblyVersion>1.0.1</AssemblyVersion>
-    <FileVersion>1.0.1</FileVersion>
-    <PackageVersion>1.0.1</PackageVersion>
+    <AssemblyVersion>1.0.2</AssemblyVersion>
+    <FileVersion>1.0.2</FileVersion>
+    <PackageVersion>1.0.2</PackageVersion>
     <Authors>RoyGerritse</Authors>
     <PackageTags>CAC;Clean;Architecture</PackageTags>
     <Description>
