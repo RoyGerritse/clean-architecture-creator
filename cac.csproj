@@ -9,6 +9,7 @@
     <PackageId>cac</PackageId>
     <AssemblyVersion>1.0.1</AssemblyVersion>
     <FileVersion>1.0.1</FileVersion>
+    <PackageVersion>1.0.1</PackageVersion>
     <PackageTags>Clean Architecture;CAC;Clean;Architecture</PackageTags>
     <Description>
       Clean Architecture Creator (CAC) is a dotnet cli tool to create default templates for clean architecture.  
