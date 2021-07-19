@@ -1,2 +1,1 @@
-# clean-architecture-creator
-Clean Architecture Creator (CAC)
+# Clean Architecture Creator (CAC)
