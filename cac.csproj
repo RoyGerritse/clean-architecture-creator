@@ -1,5 +1,4 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
@@ -10,10 +9,10 @@
     <AssemblyVersion>1.0.1</AssemblyVersion>
     <FileVersion>1.0.1</FileVersion>
     <PackageVersion>1.0.1</PackageVersion>
-    <PackageTags>Clean Architecture;CAC;Clean;Architecture</PackageTags>
+    <Authors>RoyGerritse</Authors>
+    <PackageTags>CAC;Clean;Architecture</PackageTags>
     <Description>
       Clean Architecture Creator (CAC) is a dotnet cli tool to create default templates for clean architecture.  
     </Description>
   </PropertyGroup>
-
 </Project>
