@@ -20,6 +20,7 @@ namespace CAC.Tool
 
             switch (args[0])
             {
+            
                 case "init":
                     if (!string.IsNullOrEmpty(args[1]))
                     {

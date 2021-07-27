@@ -21,3 +21,9 @@ Initialize the clean architecture project
 ```
 dotnet cac init [namespace]
 ```
+
+### init 
+Initialize the clean architecture project
+```
+dotnet cac init [namespace]
+```
